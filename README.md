@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🛠️ My Skills<br>👨‍💻 Languages & Frameworks:<br>Frontend: HTML, CSS, JavaScript, React, Next.js<br>Styling: Tailwind CSS, Bootstrap, Sass<br>Backend Basics: Node.js, Express.js<br>Version Control: Git, GitHub</h2>
+<h2 align="left">🛠️ My Skills<br><hr>👨‍💻 Languages & Frameworks:<br>Frontend: HTML, CSS, JavaScript, React, Next.js<br>Styling: Tailwind CSS, Bootstrap, Sass<br>Backend Basics: Node.js, Express.js<br>Version Control: Git, GitHub</h2>
 
 ###
 
