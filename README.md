@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning [technology you’re learning]<br>💼 Looking to collaborate on exciting frontend projects<br>👨‍💻 Exploring the latest in React.js, Next.js, and Tailwind CSS<br>🎯 My goal is to contribute to open-source and help the developer community</p>
+<p align="left">🌱 I’m currently learning Frontend<br>💼 Looking to collaborate on exciting frontend projects<br>👨‍💻 Exploring the latest in React.js, Next.js, and Tailwind CSS<br>🎯 My goal is to contribute to open-source and help the developer community</p>
 
 ###
 
