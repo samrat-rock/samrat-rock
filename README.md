@@ -1,49 +1,63 @@
-<h1 align="left">Hey 👋 I'm Samrat Pandey</h1>
+# Hi, I'm Samrat Pandey 👋
 
-###
+I'm a passionate **Frontend Developer** who loves creating **responsive**, **interactive**, and **beautiful** web applications. I'm experienced in building **user-centric websites** with the latest web technologies like React, Next.js, and Tailwind CSS.
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate Frontend Developer with a strong focus on creating intuitive, responsive, and engaging user interfaces using modern web technologies.</p>
+---
 
-###
+## 🧑‍💻 Skills
 
-<h2 align="left">🚀 About Me</h2>
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Frontend Frameworks**: React, Next.js, Tailwind CSS
+- **Version Control**: Git, GitHub
+- **Tools & Libraries**: Redux, Node.js, Express.js, Jest, Webpack, Babel, ESLint
+- **Databases**: Firebase, MongoDB (NoSQL)
+- **Others**: Responsive Design, RESTful APIs, CI/CD, Agile Methodologies
 
-###
+---
 
-<p align="left">🌱 I’m currently learning Frontend<br>💼 Looking to collaborate on exciting frontend projects<br>👨‍💻 Exploring the latest in React.js, Next.js, and Tailwind CSS<br>🎯 My goal is to contribute to open-source and help the developer community</p>
+## 🔥 Featured Projects
 
-###
+### [**Portfolio Website**](https://github.com/samrat-rock/portfolio)
+A personal portfolio website to showcase my projects, skills, and contact information.
 
-<h2 align="left">🛠️ My Skills<br><hr>Languages & Frameworks:<br>Frontend: HTML, CSS, JavaScript, React, Next.js<br>Styling: Tailwind CSS, Bootstrap, Sass<br>Backend Basics: Node.js, Express.js<br>Version Control: Git, GitHub</h2>
+### [**Weather App**](https://github.com/samrat-rock/weather-app)
+A weather forecasting app using React and OpenWeather API to get real-time weather updates based on user location.
 
-###
+### [**Task Manager App**](https://github.com/samrat-rock/task-manager)
+A task management app built with React, Redux, and Firebase for task tracking and management.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
+
+![Samrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 💬 Contact Me
+
+- **Email**: samratpandey@example.com
+- **LinkedIn**: [Samrat Pandey](https://www.linkedin.com/in/samrat-pandey)
+- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+
+---
+
+## 🚀 Fun Facts
+
+- I love learning new technologies and exploring open-source.
+- I'm a **UI/UX** enthusiast with a focus on user-friendly design.
+- In my free time, I enjoy contributing to open-source projects.
+
+---
+
+## 🔗 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrat-pandey)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrat-rock)
+
+---
+
+## 📝 Blog (Optional)
+
+- Check out my blog where I write about **Frontend Development** and **Tech Tips**: [My Blog](https://www.yourblog.com)
