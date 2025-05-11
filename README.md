@@ -4,14 +4,37 @@ I'm a passionate **Frontend Developer** who loves creating **responsive**, **int
 
 ---
 
-## 🧑‍💻 Skills
+## 🧑‍💻 Skills & Technologies
 
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3
-- **Frontend Frameworks**: React, Next.js, Tailwind CSS
-- **Version Control**: Git, GitHub
-- **Tools & Libraries**: Redux, Node.js, Express.js, Jest, Webpack, Babel, ESLint
-- **Databases**: Firebase, MongoDB (NoSQL)
-- **Others**: Responsive Design, RESTful APIs, CI/CD, Agile Methodologies
+### **Frontend Development**:
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3, SASS, LESS
+- **Frameworks & Libraries**:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - Redux, Zustand (State Management)
+  - React Router
+  - Material UI, Ant Design (UI Libraries)
+  - Styled Components
+
+### **Backend Development**:
+- **Node.js**, **Express.js** (API development)
+- **MongoDB** (Database)
+- **RESTful APIs**
+- **Firebase** (Backend-as-a-Service)
+
+### **Version Control & Deployment**:
+- **Git**, **GitHub**
+- **Vercel**, **Netlify** (Deployment platforms)
+- **CI/CD** with GitHub Actions
+
+### **Tools & Miscellaneous**:
+- **Webpack**, **Babel** (Bundling and Transpiling)
+- **ESLint**, **Prettier** (Code quality)
+- **Jest**, **React Testing Library** (Testing)
+- **Postman**, **Insomnia** (API Testing)
+- **Figma** (UI/UX Design)
+- **NPM**, **Yarn** (Package Managers)
 
 ---
 
