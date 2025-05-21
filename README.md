@@ -9,6 +9,7 @@
   Proficient in building <strong>user-centric products</strong> with technologies like <code>React</code>, <code>Next.js</code>, <code>Tailwind CSS</code>, and <code>Go</code>.
 </p>
 
+
 ---
 
 ## 🧑‍💻 Skills & Technologies
@@ -60,10 +61,27 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Samrat's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat-rock&theme=radical" alt="Samrat's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-rock&layout=compact&langs_count=10&theme=radical" alt="Top Languages by Usage" />
+</p>
+
+
 ## 📬 Contact Me
 
 - 📧 **Email**: samratpandey217@gmail.com  
 - 💼 **LinkedIn**: [Samrat Pandey](https://www.linkedin.com/in/samrat-pandey)  
+
+
 
 
 ---
