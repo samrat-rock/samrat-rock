@@ -62,9 +62,9 @@
 
 ## 📬 Contact Me
 
-- 📧 **Email**: samratpandey@example.com  
+- 📧 **Email**: samratpandey217@gmail.com  
 - 💼 **LinkedIn**: [Samrat Pandey](https://www.linkedin.com/in/samrat-pandey)  
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+
 
 ---
 
