@@ -1,75 +1,78 @@
 <h1 align="center">Hi, I'm Samrat Pandey 👋</h1>
 
 <p align="center">
-  I'm a passionate <strong>Frontend Developer</strong> who loves creating <em>responsive</em>, <em>interactive</em>, and <em>beautiful</em> web applications.<br/>
-  Experienced in building <strong>user-centric websites</strong> with modern web technologies like <code>React</code>, <code>Next.js</code>, and <code>Tailwind CSS</code>.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Golang+Backend+Developer+%F0%9F%9A%80;React+%2F+Next.js+Specialist;UI%2FUX+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I'm a passionate <strong>Frontend Developer</strong> & <strong>Backend Developer (Golang)</strong> who loves creating <em>responsive</em>, <em>interactive</em>, and <em>scalable</em> web applications.<br/>
+  Proficient in building <strong>user-centric products</strong> with technologies like <code>React</code>, <code>Next.js</code>, <code>Tailwind CSS</code>, and <code>Go</code>.
 </p>
 
 ---
 
 ## 🧑‍💻 Skills & Technologies
 
-### 🖥️ Frontend Development
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3, SASS, LESS  
-- **Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-  ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square)
-  ![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-  ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat-square&logo=styled-components&logoColor=white)
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=Zustand&logoColor=white)
 
-### ⚙️ Backend Development
-- **Node.js**, **Express.js**
-- **MongoDB**
-- **Firebase**
-- **RESTful APIs**
+### 🔧 Backend (Golang)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Dev Tools & Others
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-- ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-- CI/CD (GitHub Actions)
-- Webpack, Babel
-- ESLint, Prettier
-- Jest, React Testing Library
-- Postman, Insomnia
-- Figma
+### 🛠 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-- 🔗 [**Portfolio Website**](https://github.com/samrat-rock/portfolio): Personal portfolio showcasing skills and projects.
-- 🌦️ [**Weather App**](https://github.com/samrat-rock/weather-app): Real-time weather updates with OpenWeather API.
-- ✅ [**Task Manager App**](https://github.com/samrat-rock/task-manager): Task management with Firebase and Redux.
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔗 [**Portfolio Website**](https://github.com/samrat-rock/portfolio) | Personal site showcasing work & skills | React, Tailwind, Vercel |
+| 🌦️ [**Weather App**](https://github.com/samrat-rock/weather-app) | Real-time weather forecast | React, OpenWeather API |
+| ✅ [**Task Manager App**](https://github.com/samrat-rock/task-manager) | Task tracking & auth with Firebase | React, Redux, Firebase |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Samrat's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Samrat's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat-rock&theme=radical" alt="Samrat's GitHub Streak"/>
 </p>
 
 ---
 
 ## 📬 Contact Me
 
-- **Email**: samratpandey@example.com  
-- **LinkedIn**: [Samrat Pandey](https://www.linkedin.com/in/samrat-pandey)  
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 📧 **Email**: samratpandey@example.com  
+- 💼 **LinkedIn**: [Samrat Pandey](https://www.linkedin.com/in/samrat-pandey)  
+- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
 
 ---
 
-## 🚀 Fun Facts
+## 🎨 Fun Facts
 
-- 🧠 I love learning new technologies and contributing to open-source.
-- 🎨 UI/UX enthusiast focused on user-friendly design.
-- 🛠️ Constantly improving and experimenting with side projects.
+- 💡 Constant learner & explorer of web technologies.
+- ❤️ UI/UX focused developer.
+- 🤝 Contributor to open-source and tech communities.
 
 ---
 
@@ -89,9 +92,9 @@
 
 ---
 
-## 📝 Blog (Optional)
+## 📝 Blog
 
-Check out my blog where I share tips on **Frontend Development** and **Tech**:
-👉 [My Blog](https://www.yourblog.com)
+> Sharing thoughts on **Frontend**, **Golang**, and **Web Dev Tips**:  
+➡️ [My Blog](https://www.yourblog.com)
 
 ---
