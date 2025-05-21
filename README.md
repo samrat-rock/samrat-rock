@@ -49,17 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Samrat's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat-rock&theme=radical" alt="Samrat's GitHub Streak"/>
-</p>
-
----
 
 ## 📈 GitHub Stats
 
