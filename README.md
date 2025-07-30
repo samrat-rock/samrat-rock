@@ -46,51 +46,8 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">🚀 Project</th>
-      <th align="center">📝 Description</th>
-      <th align="center">🧰 Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/samrat-rock/portfolio">🌐 Portfolio Website</a></td>
-      <td align="center">Personal site showcasing work & skills</td>
-      <td align="center">React, Tailwind, Vercel</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/samrat-rock/weather-app">🌦️ Weather App</a></td>
-      <td align="center">Real-time weather forecast</td>
-      <td align="center">React, OpenWeather API</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/samrat-rock/task-manager">✅ Task Manager</a></td>
-      <td align="center">Task tracking & auth with Firebase</td>
-      <td align="center">React, Redux, Firebase</td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat-rock&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat-rock&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-rock&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
@@ -123,9 +80,3 @@
   </a>
 </p>
 
----
-
-## 📝 Blog
-
-> Sharing thoughts on **Frontend**, **Golang**, and **Web Dev Tips**:  
-➡️ [My Blog](https://www.yourblog.com)
